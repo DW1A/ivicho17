@@ -1,0 +1,41 @@
+1-------------------------------------------------------------------------------------------------------------------------------------------
+
+Google Chrome: Desarrollado por Google, Google Chrome es uno de los navegadores más utilizados. Es compatible con sistemas operativos como Windows, macOS, Linux, Android e iOS. Chrome destaca por su rapidez, seguridad y soporte completo para HTML5 y CSS3. Además, cuenta con una amplia gama de extensiones y es conocido por su motor de renderizado V8, que optimiza el rendimiento.
+
+Mozilla Firefox: Desarrollado por la Fundación Mozilla, Firefox es un navegador de código abierto que ofrece una gran personalización y una amplia compatibilidad con estándares web. Está disponible en sistemas operativos como Windows, macOS, Linux y Android. Firefox se destaca por su énfasis en la privacidad y seguridad del usuario, así como por su rendimiento y velocidad.
+
+Safari: Desarrollado por Apple, Safari es el navegador predeterminado en dispositivos iOS y macOS. Safari ofrece una experiencia de navegación fluida y soporte completo para estándares web como HTML5 y CSS3. Además, está optimizado para brindar un rendimiento rápido y eficiente en los dispositivos Apple.
+
+Microsoft Edge: Desarrollado por Microsoft, Microsoft Edge es el sucesor de Internet Explorer y está disponible en sistemas operativos Windows, macOS, Android e iOS. Edge viene con varias mejoras en velocidad y rendimiento, y ofrece un amplio soporte para estándares web modernos, incluyendo HTML5 y CSS3. Además, ofrece características como la sincronización entre dispositivos y una interfaz de usuario intuitiva.
+
+Opera: Desarrollado por Opera Software, Opera es un navegador alternativo que está disponible en sistemas operativos como Windows, macOS, Linux, Android e iOS. Opera se destaca por su velocidad de navegación, su enfoque en la privacidad y seguridad, y su capacidad para comprimir datos y ahorrar ancho de banda. También ofrece soporte completo para estándares web como HTML5 y CSS3.
+
+
+2-----------------------------------------------------------------------------------------------------------------------------------------
+
+A)
+
+Google Chrome:
+
+Haz clic derecho en cualquier parte de la página y selecciona "Inspeccionar" en el menú desplegable. También puedes presionar Ctrl+Shift+I en Windows o Command+Option+I en Mac como atajo de teclado.
+Se abrirá una nueva ventana o pestaña con las herramientas para desarrolladores. En esta ventana, verás dos secciones: una muestra el código HTML de la página y la otra muestra una vista previa en tiempo real de la página.
+Para ver el código HTML, asegúrate de que la pestaña "Elements" esté seleccionada. Aquí podrás explorar y examinar el código de la página.
+
+
+Mozilla Firefox:
+
+Haz clic derecho en cualquier parte de la página y selecciona "Inspeccionar elemento" en el menú desplegable. También puedes presionar Ctrl+Shift+C en Windows o Command+Option+C en Mac como atajo de teclado.
+Se abrirá una nueva ventana o pestaña con las herramientas de desarrollo. En la parte inferior de la ventana, verás la pestaña "Inspector".
+Haz clic en la pestaña "Inspector" para ver el código HTML de la página. Aquí podrás examinar y modificar el código según sea necesario.
+
+En Chrome, la función de inspeccionar se llama "Chrome DevTools" y ofrece una amplia gama de herramientas para desarrolladores. Puedes acceder a ella presionando clic derecho en cualquier elemento de una página web y seleccionando "Inspeccionar" en el menú desplegable. Las herramientas de Chrome DevTools incluyen paneles para inspeccionar y editar el código HTML, CSS y JavaScript en tiempo real, así como la capacidad de depurar, auditar y probar el rendimiento de una página web.
+
+Por otro lado, en Firefox, la función de inspeccionar se llama "Herramientas para desarrolladores" y se accede mediante el menú desplegable o presionando la tecla F12. Al igual que Chrome DevTools, las herramientas para desarrolladores de Firefox también proporcionan paneles para inspeccionar y editar el código HTML, CSS y JavaScript en tiempo real. Además, Firefox tiene una herramienta única llamada "Modo de diseño de rejilla" que facilita la creación y edición de diseños basados en cuadrícula.
+
+B)
+
+<h1>: Esta etiqueta HTML se utiliza para crear un encabezado o título de primer nivel en una página. Generalmente se utiliza para mostrar el título principal de una sección o el encabezado principal de la página.
+
+<p>: Esta etiqueta HTML se utiliza para crear un párrafo en una página. Se utiliza para estructurar el contenido y separar los diferentes fragmentos de texto en párrafos coherentes.
+
+<a>: Esta etiqueta HTML se utiliza para crear un enlace o hipervínculo en una página. Se utiliza para vincular una página a otra página, archivo o recurso externo. El atributo href dentro de la etiqueta especifica la dirección URL de destino del enlace.

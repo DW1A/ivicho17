@@ -1,0 +1,14 @@
+Capítulo 2: Fundamentos de GitHub
+
+En este capítulo se revisa la funcionalidad de GitHub y se hace una comparación con su competidor directo, GitLab.
+Se mencionan los conceptos clave de GitHub, como repositorios, archivos README y licencias de repositorio.
+También se aborda la seguridad y privacidad en GitHub y se explica el flujo de trabajo de proyectos basados en GitHub.
+A lo largo del capítulo se destacan las ventajas y desventajas de utilizar GitHub para compartir código, datos, documentos, gráficos, etc.
+
+
+Capítulo 5: Anexos
+
+En este capítulo se presentan tres anexos con información adicional.
+El primer anexo ofrece una revisión rápida de las principales soluciones de alojamiento de repositorios, incluyendo características y precios.
+El segundo anexo muestra una síntesis visual de las opciones de licencias de código abierto.
+Finalmente, el último anexo proporciona una colección de recursos interesantes en Internet.
